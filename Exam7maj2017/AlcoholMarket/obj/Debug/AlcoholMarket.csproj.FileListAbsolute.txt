@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\AlcoholMarket\bin\Debug\AlcoholMarket.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\AlcoholMarket\bin\Debug\AlcoholMarket.exe
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\AlcoholMarket\bin\Debug\AlcoholMarket.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\AlcoholMarket\obj\Debug\AlcoholMarket.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\AlcoholMarket\obj\Debug\AlcoholMarket.exe
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\AlcoholMarket\obj\Debug\AlcoholMarket.pdb

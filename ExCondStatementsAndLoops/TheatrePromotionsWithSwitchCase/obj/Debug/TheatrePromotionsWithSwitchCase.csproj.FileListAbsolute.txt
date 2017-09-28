@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\TheatrePromotionsWithSwitchCase\bin\Debug\TheatrePromotionsWithSwitchCase.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\TheatrePromotionsWithSwitchCase\obj\Debug\TheatrePromotionsWithSwitchCase.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\TheatrePromotionsWithSwitchCase\bin\Debug\TheatrePromotionsWithSwitchCase.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\TheatrePromotionsWithSwitchCase\bin\Debug\TheatrePromotionsWithSwitchCase.pdb
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\TheatrePromotionsWithSwitchCase\obj\Debug\TheatrePromotionsWithSwitchCase.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\TheatrePromotionsWithSwitchCase\obj\Debug\TheatrePromotionsWithSwitchCase.pdb

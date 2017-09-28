@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\WordInPlural\bin\Debug\WordInPlural.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\WordInPlural\bin\Debug\WordInPlural.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\WordInPlural\bin\Debug\WordInPlural.pdb
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\WordInPlural\obj\Debug\WordInPlural.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\WordInPlural\obj\Debug\WordInPlural.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\WordInPlural\obj\Debug\WordInPlural.pdb

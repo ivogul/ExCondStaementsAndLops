@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\03 English NameOfLastDigit\bin\Debug\03 English NameOfLastDigit.exe.config
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\03 English NameOfLastDigit\bin\Debug\03 English NameOfLastDigit.exe
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\03 English NameOfLastDigit\bin\Debug\03 English NameOfLastDigit.pdb
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\03 English NameOfLastDigit\obj\Debug\03 English NameOfLastDigit.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\03 English NameOfLastDigit\obj\Debug\03 English NameOfLastDigit.exe
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\03 English NameOfLastDigit\obj\Debug\03 English NameOfLastDigit.pdb

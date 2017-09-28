@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\GameOfNumbers\bin\Debug\GameOfNumbers.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\GameOfNumbers\bin\Debug\GameOfNumbers.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\GameOfNumbers\bin\Debug\GameOfNumbers.pdb
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\GameOfNumbers\obj\Debug\GameOfNumbers.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\GameOfNumbers\obj\Debug\GameOfNumbers.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\GameOfNumbers\obj\Debug\GameOfNumbers.pdb

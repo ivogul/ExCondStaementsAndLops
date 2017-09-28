@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\FruitCocktayls\bin\Debug\FruitCocktayls.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\FruitCocktayls\obj\Debug\FruitCocktayls.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\FruitCocktayls\bin\Debug\FruitCocktayls.exe
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\FruitCocktayls\bin\Debug\FruitCocktayls.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\FruitCocktayls\obj\Debug\FruitCocktayls.exe
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\FruitCocktayls\obj\Debug\FruitCocktayls.pdb

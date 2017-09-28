@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\ChooseADrink\bin\Debug\ChooseADrink.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\ChooseADrink\bin\Debug\ChooseADrink.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\ChooseADrink\bin\Debug\ChooseADrink.pdb
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\ChooseADrink\obj\Debug\ChooseADrink.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\ChooseADrink\obj\Debug\ChooseADrink.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\ChooseADrink\obj\Debug\ChooseADrink.pdb

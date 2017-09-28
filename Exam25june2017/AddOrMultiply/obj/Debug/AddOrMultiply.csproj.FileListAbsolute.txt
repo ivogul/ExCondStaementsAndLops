@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\AddOrMultiply\bin\Debug\AddOrMultiply.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\AddOrMultiply\bin\Debug\AddOrMultiply.exe
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\AddOrMultiply\bin\Debug\AddOrMultiply.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\AddOrMultiply\obj\Debug\AddOrMultiply.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\AddOrMultiply\obj\Debug\AddOrMultiply.exe
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\AddOrMultiply\obj\Debug\AddOrMultiply.pdb

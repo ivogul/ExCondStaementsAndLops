@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\CarToGo\bin\Debug\CarToGo.exe.config
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\CarToGo\bin\Debug\CarToGo.exe
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\CarToGo\bin\Debug\CarToGo.pdb
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\CarToGo\obj\Debug\CarToGo.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\CarToGo\obj\Debug\CarToGo.exe
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\CarToGo\obj\Debug\CarToGo.pdb

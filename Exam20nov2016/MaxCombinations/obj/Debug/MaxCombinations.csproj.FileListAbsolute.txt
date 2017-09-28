@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\Exam20nov2016\MaxCombinations\bin\Debug\MaxCombinations.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam20nov2016\MaxCombinations\bin\Debug\MaxCombinations.exe
+D:\Documents\Visual Studio 2015\Projects\Exam20nov2016\MaxCombinations\bin\Debug\MaxCombinations.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam20nov2016\MaxCombinations\obj\Debug\MaxCombinations.exe
+D:\Documents\Visual Studio 2015\Projects\Exam20nov2016\MaxCombinations\obj\Debug\MaxCombinations.pdb

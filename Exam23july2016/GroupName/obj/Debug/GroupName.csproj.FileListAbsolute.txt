@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\GroupName\bin\Debug\GroupName.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\GroupName\bin\Debug\GroupName.exe
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\GroupName\bin\Debug\GroupName.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\GroupName\obj\Debug\GroupName.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\GroupName\obj\Debug\GroupName.exe
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\GroupName\obj\Debug\GroupName.pdb

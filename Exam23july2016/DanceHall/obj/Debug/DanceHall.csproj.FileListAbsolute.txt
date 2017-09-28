@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\DanceHall\bin\Debug\DanceHall.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\DanceHall\bin\Debug\DanceHall.exe
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\DanceHall\bin\Debug\DanceHall.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\DanceHall\obj\Debug\DanceHall.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\DanceHall\obj\Debug\DanceHall.exe
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\DanceHall\obj\Debug\DanceHall.pdb

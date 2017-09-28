@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\EnergyLoss\bin\Debug\EnergyLoss.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\EnergyLoss\bin\Debug\EnergyLoss.exe
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\EnergyLoss\bin\Debug\EnergyLoss.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\EnergyLoss\obj\Debug\EnergyLoss.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\EnergyLoss\obj\Debug\EnergyLoss.exe
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\EnergyLoss\obj\Debug\EnergyLoss.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\HotelMarto223\bin\Debug\HotelMarto223.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\HotelMarto223\bin\Debug\HotelMarto223.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\HotelMarto223\bin\Debug\HotelMarto223.pdb
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\HotelMarto223\obj\Debug\HotelMarto223.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\HotelMarto223\obj\Debug\HotelMarto223.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\HotelMarto223\obj\Debug\HotelMarto223.pdb

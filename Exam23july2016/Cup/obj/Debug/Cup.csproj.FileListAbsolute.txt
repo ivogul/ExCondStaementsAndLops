@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\Cup\bin\Debug\Cup.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\Cup\bin\Debug\Cup.exe
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\Cup\bin\Debug\Cup.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\Cup\obj\Debug\Cup.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\Cup\obj\Debug\Cup.exe
+D:\Documents\Visual Studio 2015\Projects\Exam23july2016\Cup\obj\Debug\Cup.pdb

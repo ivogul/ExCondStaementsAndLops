@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Exam20November2016\ChangeTiles\bin\Debug\ChangeTiles.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam20November2016\ChangeTiles\bin\Debug\ChangeTiles.exe
+D:\Documents\Visual Studio 2015\Projects\Exam20November2016\ChangeTiles\bin\Debug\ChangeTiles.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam20November2016\ChangeTiles\obj\Debug\ChangeTiles.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Exam20November2016\ChangeTiles\obj\Debug\ChangeTiles.exe
+D:\Documents\Visual Studio 2015\Projects\Exam20November2016\ChangeTiles\obj\Debug\ChangeTiles.pdb

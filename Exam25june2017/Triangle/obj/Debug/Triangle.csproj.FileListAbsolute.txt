@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\Triangle\bin\Debug\Triangle.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\Triangle\bin\Debug\Triangle.exe
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\Triangle\bin\Debug\Triangle.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\Triangle\obj\Debug\Triangle.exe
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\Triangle\obj\Debug\Triangle.pdb

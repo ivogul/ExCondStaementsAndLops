@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\ToyShop\bin\Debug\ToyShop.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\ToyShop\bin\Debug\ToyShop.exe
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\ToyShop\bin\Debug\ToyShop.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\ToyShop\obj\Debug\ToyShop.exe
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\ToyShop\obj\Debug\ToyShop.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\NumberGenerator\bin\Debug\NumberGenerator.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\NumberGenerator\bin\Debug\NumberGenerator.exe
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\NumberGenerator\bin\Debug\NumberGenerator.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\NumberGenerator\obj\Debug\NumberGenerator.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\NumberGenerator\obj\Debug\NumberGenerator.exe
+D:\Documents\Visual Studio 2015\Projects\Exam7maj2017\NumberGenerator\obj\Debug\NumberGenerator.pdb

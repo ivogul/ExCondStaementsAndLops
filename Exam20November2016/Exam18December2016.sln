@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "HousePrice\Distance.csproj", "{2C5781FA-A457-4548-B59B-21B20EBE925F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeTiles", "ChangeTiles\ChangeTiles.csproj", "{415F630F-3B87-45E1-8736-841FED3248E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerShop", "FlowerShop\FlowerShop.csproj", "{BF8AA3A5-046D-4A17-B172-011C0FCDACFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5781FA-A457-4548-B59B-21B20EBE925F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5781FA-A457-4548-B59B-21B20EBE925F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5781FA-A457-4548-B59B-21B20EBE925F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5781FA-A457-4548-B59B-21B20EBE925F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{415F630F-3B87-45E1-8736-841FED3248E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415F630F-3B87-45E1-8736-841FED3248E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415F630F-3B87-45E1-8736-841FED3248E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415F630F-3B87-45E1-8736-841FED3248E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8AA3A5-046D-4A17-B172-011C0FCDACFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8AA3A5-046D-4A17-B172-011C0FCDACFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8AA3A5-046D-4A17-B172-011C0FCDACFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8AA3A5-046D-4A17-B172-011C0FCDACFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\SandClock\bin\Debug\SandClock.exe.config
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\SandClock\bin\Debug\SandClock.exe
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\SandClock\bin\Debug\SandClock.pdb
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\SandClock\obj\Debug\SandClock.exe
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\SandClock\obj\Debug\SandClock.pdb

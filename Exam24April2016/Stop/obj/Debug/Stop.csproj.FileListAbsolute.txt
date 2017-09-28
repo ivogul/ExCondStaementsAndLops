@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Exam24April2016\Stop\bin\Debug\Stop.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam24April2016\Stop\bin\Debug\Stop.exe
+D:\Documents\Visual Studio 2015\Projects\Exam24April2016\Stop\bin\Debug\Stop.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam24April2016\Stop\obj\Debug\Stop.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Exam24April2016\Stop\obj\Debug\Stop.exe
+D:\Documents\Visual Studio 2015\Projects\Exam24April2016\Stop\obj\Debug\Stop.pdb

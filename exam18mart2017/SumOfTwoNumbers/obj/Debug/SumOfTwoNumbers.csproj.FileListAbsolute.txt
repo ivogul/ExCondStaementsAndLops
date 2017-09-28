@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.exe.config
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.exe
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.pdb
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.exe
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.pdb

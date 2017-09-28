@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\SoftUniLogo\bin\Debug\SoftUniLogo.exe.config
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\SoftUniLogo\bin\Debug\SoftUniLogo.exe
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\SoftUniLogo\bin\Debug\SoftUniLogo.pdb
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\SoftUniLogo\obj\Debug\SoftUniLogo.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\SoftUniLogo\obj\Debug\SoftUniLogo.exe
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\SoftUniLogo\obj\Debug\SoftUniLogo.pdb

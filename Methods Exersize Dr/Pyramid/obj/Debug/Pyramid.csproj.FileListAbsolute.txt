@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\Pyramid\bin\Debug\Pyramid.exe.config
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\Pyramid\bin\Debug\Pyramid.exe
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\Pyramid\bin\Debug\Pyramid.pdb
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\Pyramid\obj\Debug\Pyramid.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\Pyramid\obj\Debug\Pyramid.exe
+D:\Documents\Visual Studio 2015\Projects\Methods Exersize Dr\Pyramid\obj\Debug\Pyramid.pdb

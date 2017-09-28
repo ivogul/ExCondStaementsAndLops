@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\ex1\ex1\bin\Debug\ex1.exe.config
+D:\Documents\Visual Studio 2015\Projects\ex1\ex1\bin\Debug\ex1.exe
+D:\Documents\Visual Studio 2015\Projects\ex1\ex1\bin\Debug\ex1.pdb
+D:\Documents\Visual Studio 2015\Projects\ex1\ex1\obj\Debug\ex1.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ex1\ex1\obj\Debug\ex1.exe
+D:\Documents\Visual Studio 2015\Projects\ex1\ex1\obj\Debug\ex1.pdb

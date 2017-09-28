@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\WorkHours\bin\Debug\WorkHours.exe.config
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\WorkHours\bin\Debug\WorkHours.exe
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\WorkHours\bin\Debug\WorkHours.pdb
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\WorkHours\obj\Debug\WorkHours.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\WorkHours\obj\Debug\WorkHours.exe
+D:\Documents\Visual Studio 2015\Projects\exam18mart2017\WorkHours\obj\Debug\WorkHours.pdb

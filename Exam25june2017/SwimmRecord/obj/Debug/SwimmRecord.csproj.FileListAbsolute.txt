@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\SwimmRecord\bin\Debug\SwimmRecord.exe.config
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\SwimmRecord\bin\Debug\SwimmRecord.exe
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\SwimmRecord\bin\Debug\SwimmRecord.pdb
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\SwimmRecord\obj\Debug\SwimmRecord.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\SwimmRecord\obj\Debug\SwimmRecord.exe
+D:\Documents\Visual Studio 2015\Projects\Exam25june2017\SwimmRecord\obj\Debug\SwimmRecord.pdb

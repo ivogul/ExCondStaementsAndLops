@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb

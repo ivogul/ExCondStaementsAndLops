@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\Hotel\bin\Debug\Hotel.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\Hotel\bin\Debug\Hotel.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\Hotel\bin\Debug\Hotel.pdb
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\Hotel\obj\Debug\Hotel.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\Hotel\obj\Debug\Hotel.pdb

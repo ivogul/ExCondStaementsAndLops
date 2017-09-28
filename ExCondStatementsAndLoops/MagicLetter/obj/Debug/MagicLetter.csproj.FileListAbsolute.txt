@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\MagicLetter\bin\Debug\MagicLetter.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\MagicLetter\bin\Debug\MagicLetter.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\MagicLetter\bin\Debug\MagicLetter.pdb
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\MagicLetter\obj\Debug\MagicLetter.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\MagicLetter\obj\Debug\MagicLetter.exe
+D:\Documents\Visual Studio 2015\Projects\ExCondStatementsAndLoops\MagicLetter\obj\Debug\MagicLetter.pdb
